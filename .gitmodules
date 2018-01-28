@@ -1,0 +1,3 @@
+[submodule "include/samp-plugin-sdk"]
+	path = include/samp-plugin-sdk
+	url = https://github.com/Zeex/samp-plugin-sdk
