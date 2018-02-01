@@ -1,3 +1,5 @@
+{-# LANGUAGE MultiParamTypeClasses, FunctionalDependencies #-}
+
 module Samp.Common where
 
 newtype Vec3 =
